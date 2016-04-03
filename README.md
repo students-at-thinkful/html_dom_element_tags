@@ -21,6 +21,7 @@
 <img >
 <form> - </form>
 <table> - </table>
+<th> - </th>
 <tr> - </tr>
 <td> - </td>
 <input >
