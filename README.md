@@ -17,6 +17,7 @@
 <ul> - </ul>
 <li> - </li>
 <a> - </a>
+<img >
 <form> - </form>
 <table> - </table>
 <tr> - </tr>
