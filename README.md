@@ -35,3 +35,123 @@
 </body>
 </html>
 ```
+
+#### Division
+```
+<div> - </div>
+```
+
+#### Span
+```
+<span> - </span>
+```
+
+#### Paragraph
+```
+<p> - </p>
+```
+
+#### Navigation
+```
+<nav> - </nav>
+```
+
+#### Unordered List
+```
+<ul> - </ul>
+```
+
+#### List Item
+```
+<li> - </li>
+```
+
+#### Link Anchor
+```
+<a> - </a>
+```
+
+#### Image
+```
+<img >
+```
+
+#### Form
+```
+<form> - </form>
+```
+
+#### Table
+```
+<table> - </table>
+```
+
+#### Table Row
+```
+<tr> - </tr>
+```
+
+#### Table Cell Data
+```
+<td> - </td>
+```
+
+#### User Input
+```
+<input >
+```
+
+#### Line Break
+```
+<br />
+```
+
+#### Header Division
+```
+<header> - </header>
+```
+
+#### A Side Division
+```
+<aside> - </aside>
+```
+
+#### Main Division
+```
+<main> - </main>
+```
+
+#### Footer Division
+```
+<footer> - </footer>
+```
+
+#### Body Tag
+```
+<body> - </body>
+```
+
+#### Head Tag
+```
+<head> - </head>
+```
+
+#### HTML tag
+```
+<html> - </html>
+```
+
+#### Document Type
+```
+<!DOCTYPE html>
+```
+
+#### Meta Tags
+```
+<meta >
+```
+
+#### Page Title
+```
+<title> - </title>
+```
