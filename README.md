@@ -166,3 +166,13 @@
 ```
 <title> - </title>
 ```
+
+#### Style Tag
+```
+<style> - </style>
+```
+
+#### Stcript Tag
+```
+<script> - </script>
+```
