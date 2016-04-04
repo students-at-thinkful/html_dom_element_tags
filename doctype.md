@@ -1,0 +1,4 @@
+#### Document Type
+```
+<!DOCTYPE html>
+```
