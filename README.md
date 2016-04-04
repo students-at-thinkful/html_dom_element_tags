@@ -54,22 +54,22 @@
 <div> - </div>
 ```
 
-#### Span
+#### Span ( [view](https://github.com/students-at-thinkful/html_dom_element_tags/blob/master/span.md) )
 ```
 <span> - </span>
 ```
 
-#### Paragraph
+#### Paragraph ( [view](https://github.com/students-at-thinkful/html_dom_element_tags/blob/master/paragraph.md) )
 ```
 <p> - </p>
 ```
 
-#### Navigation
+#### Navigation ( [view](https://github.com/students-at-thinkful/html_dom_element_tags/blob/master/navigation.md) )
 ```
 <nav> - </nav>
 ```
 
-#### Unordered List
+#### Unordered List ( [view](https://github.com/students-at-thinkful/html_dom_element_tags/blob/master/unordered_list.md) )
 ```
 <ul> - </ul>
 ```
