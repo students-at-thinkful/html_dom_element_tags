@@ -1,0 +1,4 @@
+#### Footer Division
+```
+<footer> - </footer>
+```
