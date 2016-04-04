@@ -1,5 +1,16 @@
 # html_dom_element_tags
 
+###### Regular Tag Element
+```
+<tag> - </tag>
+```
+
+###### Self Closing Tag Element
+```
+<tag >
+<tag />
+```
+
 ```
 <html>
 <head>
