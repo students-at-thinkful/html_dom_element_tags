@@ -172,7 +172,7 @@
 <style> - </style>
 ```
 
-#### Stcript Tag
+#### Script Tag
 ```
 <script> - </script>
 ```
