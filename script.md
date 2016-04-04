@@ -1,0 +1,4 @@
+#### Script Tag
+```
+<script> - </script>
+```
