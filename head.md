@@ -1,0 +1,4 @@
+#### Head Tag
+```
+<head> - </head>
+```
