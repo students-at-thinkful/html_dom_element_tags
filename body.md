@@ -1,0 +1,4 @@
+#### Body Tag
+```
+<body> - </body>
+```
